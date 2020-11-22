@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "163133494386",
+    "firebase_url": "https://minisocialapp-b6ecb.firebaseio.com",
+    "project_id": "minisocialapp-b6ecb",
+    "storage_bucket": "minisocialapp-b6ecb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163133494386:android:d31550af55f70ff2d25eeb",
+        "android_client_info": {
+          "package_name": "com.example.social_network_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "163133494386-k1hbfoiprvha4gpr9lbv0aq2l57j7h7j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.social_network_test",
+            "certificate_hash": "3b22b07a55987839753ed47e74b3242aa7737fa1"
+          }
+        },
+        {
+          "client_id": "163133494386-pmq2oo2b7oimpl0u83enrdcfmvdnj3fp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy-9DtOWsJy_ReMLIvSSYEHdgGMIvBpCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "163133494386-pmq2oo2b7oimpl0u83enrdcfmvdnj3fp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "163133494386-7p027u8345cip3hmf3glf567dlhv8jgf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.socialNetworkTest"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
